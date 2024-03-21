@@ -17,12 +17,15 @@
 
 # screenshots
 # 1. Homepage
-<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/cd5ab312-ff27-4e5c-a0ad-eed89380b4ed">___
-<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/2ac649a2-e1bf-4da8-94b9-1574fe5b6b1b">___
-<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/e8690276-d3d3-4736-893a-c5dac557b750">___
-<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/7076aed4-2340-4eb0-a118-daeeeb764c44">___
-# 2. Login screen
-<img width="408" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/8401a527-279c-48ef-aed6-a9dcf3f6da9a">___
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/cd5ab312-ff27-4e5c-a0ad-eed89380b4ed">
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/2ac649a2-e1bf-4da8-94b9-1574fe5b6b1b">
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/e8690276-d3d3-4736-893a-c5dac557b750">
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/7076aed4-2340-4eb0-a118-daeeeb764c44"><br>
+# 2. Login and register screen
+<img width="408" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/8401a527-279c-48ef-aed6-a9dcf3f6da9a">
+<img width="316" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/99d01b7b-8a03-4e31-80ff-676fba44bb01"><br>
+#3. Shpping screen
+
 
 
 
