@@ -23,10 +23,12 @@
 <img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/7076aed4-2340-4eb0-a118-daeeeb764c44">
 
 #2. Login and register screen
+
 <img width="408" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/8401a527-279c-48ef-aed6-a9dcf3f6da9a">
 <img width="316" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/99d01b7b-8a03-4e31-80ff-676fba44bb01">
 
 #3. Shpping screen
+
 <img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/bc411d79-f86d-47ad-8028-1dd66828d928">
 
 
