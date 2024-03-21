@@ -1,0 +1,136 @@
+/* General Styles */
+body {
+    min-height: 100vh;
+    background-color: #f8f9fa; /* Light background color */
+}
+
+
+.my-container {
+    transition: 0.4s;
+}
+
+.active-cont {
+    margin-left: 250px;
+}
+
+#menu-btn {
+    background-color: #343a40; /* Dark background color */
+    color: #fff;
+    margin-left: -62px;
+}
+
+/* Input Styling */
+.my-container input {
+    border-radius: 2rem;
+    padding: 10px 20px; /* Adjusted padding for better spacing */
+    margin-bottom: 10px; /* Added margin bottom for spacing */
+    border: 1px solid #ced4da; /* Neutral border color */
+}
+
+/* Carousel Styling */
+#introCarousel,
+.carousel-inner,
+.carousel-item,
+.carousel-item.active {
+    height: 100vh;
+}
+
+.carousel-item {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-item:nth-child(1) {
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
+}
+
+.carousel-item:nth-child(2) {
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/77.jpg');
+}
+
+.carousel-item:nth-child(3) {
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/78.jpg');
+}
+
+
+/* Footer Styling */
+footer {
+    background: #343a40;
+    padding: 40px;
+    margin-top: 20px;
+    color: #fff; /* Text color */
+}
+
+footer a {
+    color: #f8f9fa !important; /* Footer link color */
+}
+
+
+/* Product Block Styling */
+.bloc_left_price,
+.add_to_cart_block .price,
+.add_to_cart_block .price_discounted {
+    color: #c01508; /* Accent color */
+}
+
+.category_block li:hover {
+    background-color: #007bff;
+}
+
+.category_block li:hover a {
+    color: #ffffff;
+}
+
+.category_block li a,
+.product_rassurance,
+.product_rassurance .list-inline,
+.reviews_product .fa-star {
+    color: #343a40; /* Text color */
+}
+
+.pagination {
+    margin-top: 20px;
+}
+
+/* Product Title Styling */
+.show_txt {
+    display: inline-block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}
+
+/* Review Star Color */
+.reviews_product .fa-star {
+    color: gold;
+}
+
+.nav {
+    min-height: 42px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-list {
+    padding-left: 0;
+    margin: auto 16px;
+}
+
+.nav-item {
+    color: #fff;
+    list-style: none;
+    margin-left: 200px;
+    transition: color 0.3s ease;
+}
+
+.nav-item:hover {
+    color: #ffcc00;
+    background-color: #00b74a;
+}
+.user {
+    color: #fa4665;
+    margin-top: 14px;
+    font-size: 26px;
+}

@@ -1,0 +1,19 @@
+
+Œ
+java:S1301@"KReplace this "switch" statement by "if" statements to increase readability.(ë´åÝþÿÿÿÿJ$9b0ac86d-f000-4afa-9675-6c4bb07f1ce9
+Â
+java:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ý”È×þÿÿÿÿJ$d098f17b-25f5-44f7-9c25-c1c82344ac94
+½
+java:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤Ö•àJ$92d13225-8d2c-45f7-8509-a84c221f309b
+¢
+java:S1989)"fHandle the following exceptions that could be thrown by "listCategory": ServletException, IOException.(œÆ¿ŸJ$b6447227-7edd-4f2a-a250-db29163c32a8
+}
+java:S1172."<Remove these unused method parameters "request", "response".(Ý”È×þÿÿÿÿJ$8e0b51a8-4d4f-40b0-bd50-3f888e197bba
+x
+java:S11721"<Remove these unused method parameters "request", "response".(¤Ö•àJ$376dc054-6169-456b-b7cd-66480ce3eff0
+‘
+java:S1989B"UHandle the following exception that could be thrown by "insertCategory": IOException.(Æí“µJ$10ed1315-f5f2-4bd4-9d3e-d1caaf56f504
+¢
+java:S1989E"fHandle the following exceptions that could be thrown by "listCategory": ServletException, IOException.(œÆ¿ŸJ$46440ed2-ab09-44ad-bfe8-343433b2ab72
+™
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(îí×ªùÿÿÿÿJ$2f99e759-5121-4480-9b3b-9ea8dd5a268c

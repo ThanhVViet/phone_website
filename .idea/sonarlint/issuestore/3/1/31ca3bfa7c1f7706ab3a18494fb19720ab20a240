@@ -1,0 +1,9 @@
+
+{
+java:S1118":Add a private constructor to hide the implicit public one.(ä¦”±øÿÿÿÿJ$7b2bf466-1c6f-401a-9941-be9ba2c8baa2
+€
+java:S2147"DCombine this catch with the one at line 18, which has the same body.(ýàÑÎJ$ccc4d557-bdaa-4362-a762-cc3573cb5fd8
+n
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿJ$a588070f-4009-4a87-a565-6e4ee240365a
+r
+java:S6437"6Revoke and change this password, as it is compromised.(Ã öÛJ$3da81588-83f6-4234-98aa-4b0583411461
