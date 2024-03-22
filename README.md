@@ -47,6 +47,45 @@
 
 <img width="217" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/edea41e8-ffff-44f0-b07e-9d5aa2422e20">
 
+# 7.Admin screen
+
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/bf3faa3d-4bf1-48ad-a99f-a5de85332c86">
+
+# 8.Bill management
+
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/ba9f7f7f-edd6-4153-961b-a4eb90a8fb70">
+
+# 9.Daily and monthly revenue
+
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/d59e3d27-f5bb-4479-94a9-9ae9de995cac">
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/a1f73109-c994-40f3-ae70-b4f79f831b6e">
+
+# 10. Product and category management
+
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/46532e98-8a91-4f7f-8026-c65da76af68d">
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/aa74a8bc-c580-4e4d-96fd-f498eb9a82e0">
+
+# 11. Manage suplier 
+
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/8093dc61-d9ce-4564-a79b-b40e7a86deea">
+
+# 12. Account management
+
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/17b280bd-9ee2-474b-81c4-690122138fa6">
+
+# 13. top 10 best seller product
+
+<img width="468" alt="image" src="https://github.com/ThanhVViet/phone_website/assets/126480817/55e563e9-e7a2-4463-b89c-605422931f38">
+
+
+
+
+
+
+
+
+
+
 
 
 
